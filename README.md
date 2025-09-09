@@ -23,6 +23,7 @@ Fraud & Risk Analysis: Jira, Moola, Nova, Torch, PIPL, Google Sheets/Docs
 Operating Systems: Linux (Ubuntu), Windows
 
 🏆 Certifications
+
 Airbnb: Account Takeovers & Diverted Payouts
 
 Airbnb: Anti-Money Laundering & Terrorist Financing (2023)
